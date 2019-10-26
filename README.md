@@ -1,2 +1,2 @@
-# JianxBlog.github.io
+# Jianx.github.io
 简兮博客
